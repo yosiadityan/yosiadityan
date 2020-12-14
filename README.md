@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://images.gr-assets.com/hostedimages/1489099072ra/22185566.gif" alt="GIF">
+<p align="center">
+  <img width="800" align="center" src="https://images.gr-assets.com/hostedimages/1489099072ra/22185566.gif" alt="GIF">
+</p>
